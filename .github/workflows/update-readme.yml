@@ -11,7 +11,10 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest  # Use an Ubuntu runner to execute the script
-
+    
+    permissions:
+      contents: write
+      
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3  # This checks out your repository
