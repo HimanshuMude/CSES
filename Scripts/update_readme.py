@@ -19,7 +19,7 @@ def generate_index(path, base_url, indent=0):
 def main():
     repo_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     readme_path = os.path.join(repo_path, "README.md")
-    base_url = "https://github.com/your-username/your-repo-name/blob/main"  # Update with your repo URL
+    base_url = "https://github.com/HimanshuMude/CSES/blob/main"  # Update with your repo URL
 
     index_content = ["# Repository Index\n"]
     index_content.extend(generate_index(repo_path, base_url))
