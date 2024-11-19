@@ -1,42 +1,31 @@
 import os
 
-def generate_fancy_index(directory='.'):
-    # List to hold lines of the index
-    index_lines = []
-    
-    # Traverse the directory and subdirectories
-    for root, dirs, files in os.walk(directory):
-        # Filter out directories like .git, logs, and others that aren't relevant
-        dirs[:] = [d for d in dirs if not d.startswith(('.', 'logs', 'refs', 'hooks'))]
-        
-        # Create a relative path from the current root
-        relative_path = os.path.relpath(root, directory)
-        
-        # If it's the root directory, display it with an emoji
-        if relative_path == '.':
-            index_lines.append("📂 Repository Index")
-            index_lines.append("📁 ./")
-            index_lines.append("📄 [README.md](README.md)")
-            index_lines.append("")  # Add a blank line
-        
-        # Display subdirectories and files
-        elif files or dirs:
-            # Display directories
-            if dirs:
-                index_lines.append(f"📁 {relative_path}/")
-                for d in dirs:
-                    index_lines.append(f"📁 {relative_path}/{d}")
-            # Display files with links
-            for file in files:
-                # Ignore non-Python files or other irrelevant files
-                if file.lower().endswith(('.py', '.md', '.txt', '.yml', '.yaml', '.json')):
-                    file_path = os.path.join(relative_path, file)
-                    # Add file with a link to the GitHub file path
-                    index_lines.append(f"🛠️ [{file}]({f'https://github.com/HimanshuMude/CSES/blob/main/{file_path}})")
-    
-    # Join the lines into a string and return the result
-    return '\n'.join(index_lines)
+EXCLUDE_DIRS = {'Scripts', '.github', 'node_modules', '.git', '__pycache__'}
 
-# Generate the fancy index and write it to the README
-with open('README.md', 'w', encoding='utf-8') as readme:
-    readme.write(generate_fancy_index())
+def generate_index(path, base_url, indent=0):
+    index = []
+    items = sorted(os.listdir(path))
+    for item in items:
+        item_path = os.path.join(path, item)
+        if os.path.isdir(item_path):
+            if item in EXCLUDE_DIRS:
+                continue
+            index.append("  " * indent + f"- 📁 **[{item}]({base_url}/{item})**")
+            index.extend(generate_index(item_path, f"{base_url}/{item}", indent + 1))
+        else:
+            index.append("  " * indent + f"- 📄 [{item}]({base_url}/{item})")
+    return index
+
+def main():
+    repo_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    readme_path = os.path.join(repo_path, "README.md")
+    base_url = "https://github.com/your-username/your-repo-name/blob/main"  # Update with your repo URL
+
+    index_content = ["# Repository Index\n"]
+    index_content.extend(generate_index(repo_path, base_url))
+
+    with open(readme_path, "w", encoding='utf-8') as readme_file:
+        readme_file.write("\n".join(index_content))
+
+if __name__ == "__main__":
+    main()

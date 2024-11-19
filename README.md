@@ -1,85 +1,9 @@
-# 📂 Repository Index
+# Repository Index
 
-- 📁 **[./](https://github.com/HimanshuMude/CSES/blob/main./)**
-  - 📄 [README.md](https://github.com/HimanshuMude/CSES/blob/main./README.md)
-  - 📁 **[.github/](https://github.com/HimanshuMude/CSES/blob/main.github/)**
-    - 📁 **[workflows/](https://github.com/HimanshuMude/CSES/blob/main.github/workflows/)**
-      - 🛠️ [update-readme.yml](https://github.com/HimanshuMude/CSES/blob/main.github/workflows/update-readme.yml)
-  - 📁 **[Scripts/](https://github.com/HimanshuMude/CSES/blob/mainScripts/)**
-    - 🛠️ [update_readme.py](https://github.com/HimanshuMude/CSES/blob/mainScripts/update_readme.py)
-  - 📁 **[Introductory Problems/](https://github.com/HimanshuMude/CSES/blob/mainIntroductory Problems/)**
-    - 🛠️ [repetitions.py](https://github.com/HimanshuMude/CSES/blob/mainIntroductory Problems/repetitions.py)
-    - 🛠️ [increasing_array.py](https://github.com/HimanshuMude/CSES/blob/mainIntroductory Problems/increasing_array.py)
-    - 🛠️ [permutations.py](https://github.com/HimanshuMude/CSES/blob/mainIntroductory Problems/permutations.py)
-    - 🛠️ [weird_algorithm.py](https://github.com/HimanshuMude/CSES/blob/mainIntroductory Problems/weird_algorithm.py)
-    - 🛠️ [missing_number.py](https://github.com/HimanshuMude/CSES/blob/mainIntroductory Problems/missing_number.py)
-  - 📁 **[.git/](https://github.com/HimanshuMude/CSES/blob/main.git/)**
-    - 🛠️ [HEAD](https://github.com/HimanshuMude/CSES/blob/main.git/HEAD)
-    - 🛠️ [config](https://github.com/HimanshuMude/CSES/blob/main.git/config)
-    - 🛠️ [description](https://github.com/HimanshuMude/CSES/blob/main.git/description)
-    - 🛠️ [index](https://github.com/HimanshuMude/CSES/blob/main.git/index)
-    - 🛠️ [FETCH_HEAD](https://github.com/HimanshuMude/CSES/blob/main.git/FETCH_HEAD)
-    - 🛠️ [shallow](https://github.com/HimanshuMude/CSES/blob/main.git/shallow)
-    - 📁 **[info/](https://github.com/HimanshuMude/CSES/blob/main.git/info/)**
-      - 🛠️ [exclude](https://github.com/HimanshuMude/CSES/blob/main.git/info/exclude)
-    - 📁 **[branches/](https://github.com/HimanshuMude/CSES/blob/main.git/branches/)**
-    - 📁 **[refs/](https://github.com/HimanshuMude/CSES/blob/main.git/refs/)**
-      - 📁 **[heads/](https://github.com/HimanshuMude/CSES/blob/main.git/refs/heads/)**
-        - 🛠️ [main](https://github.com/HimanshuMude/CSES/blob/main.git/refs/heads/main)
-      - 📁 **[remotes/](https://github.com/HimanshuMude/CSES/blob/main.git/refs/remotes/)**
-        - 📁 **[origin/](https://github.com/HimanshuMude/CSES/blob/main.git/refs/remotes/origin/)**
-          - 🛠️ [main](https://github.com/HimanshuMude/CSES/blob/main.git/refs/remotes/origin/main)
-      - 📁 **[tags/](https://github.com/HimanshuMude/CSES/blob/main.git/refs/tags/)**
-    - 📁 **[logs/](https://github.com/HimanshuMude/CSES/blob/main.git/logs/)**
-      - 🛠️ [HEAD](https://github.com/HimanshuMude/CSES/blob/main.git/logs/HEAD)
-      - 📁 **[refs/](https://github.com/HimanshuMude/CSES/blob/main.git/logs/refs/)**
-        - 📁 **[heads/](https://github.com/HimanshuMude/CSES/blob/main.git/logs/refs/heads/)**
-          - 🛠️ [main](https://github.com/HimanshuMude/CSES/blob/main.git/logs/refs/heads/main)
-        - 📁 **[remotes/](https://github.com/HimanshuMude/CSES/blob/main.git/logs/refs/remotes/)**
-          - 📁 **[origin/](https://github.com/HimanshuMude/CSES/blob/main.git/logs/refs/remotes/origin/)**
-            - 🛠️ [main](https://github.com/HimanshuMude/CSES/blob/main.git/logs/refs/remotes/origin/main)
-    - 📁 **[objects/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/)**
-      - 📁 **[ba/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/ba/)**
-        - 🛠️ [1edd9fabee7b8f4ab1b6c775610abc2ad50cf0](https://github.com/HimanshuMude/CSES/blob/main.git/objects/ba/1edd9fabee7b8f4ab1b6c775610abc2ad50cf0)
-      - 📁 **[info/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/info/)**
-      - 📁 **[f6/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/f6/)**
-        - 🛠️ [f139fc8bbd251f4b56985b43e81ea14fb22a0d](https://github.com/HimanshuMude/CSES/blob/main.git/objects/f6/f139fc8bbd251f4b56985b43e81ea14fb22a0d)
-      - 📁 **[1f/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/1f/)**
-        - 🛠️ [c191b15a85628827be62be1b1549aedb8b1eaf](https://github.com/HimanshuMude/CSES/blob/main.git/objects/1f/c191b15a85628827be62be1b1549aedb8b1eaf)
-      - 📁 **[4e/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/4e/)**
-        - 🛠️ [e2179623807ab0e7ad335c7108afa7578019ac](https://github.com/HimanshuMude/CSES/blob/main.git/objects/4e/e2179623807ab0e7ad335c7108afa7578019ac)
-      - 📁 **[d5/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/d5/)**
-        - 🛠️ [4a84562bcfc7bfb20b228f9bc9ee0f91b77ce2](https://github.com/HimanshuMude/CSES/blob/main.git/objects/d5/4a84562bcfc7bfb20b228f9bc9ee0f91b77ce2)
-      - 📁 **[31/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/31/)**
-        - 🛠️ [d02f3080aff22294d6b0c756c5db2b31be4065](https://github.com/HimanshuMude/CSES/blob/main.git/objects/31/d02f3080aff22294d6b0c756c5db2b31be4065)
-      - 📁 **[6e/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/6e/)**
-        - 🛠️ [6f11b791330e7dbb744968a497e1f0a3acd444](https://github.com/HimanshuMude/CSES/blob/main.git/objects/6e/6f11b791330e7dbb744968a497e1f0a3acd444)
-      - 📁 **[pack/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/pack/)**
-      - 📁 **[e4/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/e4/)**
-        - 🛠️ [09912cc3701c1f662c2fe9cc59721843b97939](https://github.com/HimanshuMude/CSES/blob/main.git/objects/e4/09912cc3701c1f662c2fe9cc59721843b97939)
-      - 📁 **[d2/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/d2/)**
-        - 🛠️ [b6f1aa6c4bf3a8da791ab0585bfdce8d791fc8](https://github.com/HimanshuMude/CSES/blob/main.git/objects/d2/b6f1aa6c4bf3a8da791ab0585bfdce8d791fc8)
-      - 📁 **[a8/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/a8/)**
-        - 🛠️ [e74c6f9a9b579a52713973ad5c34081585be6c](https://github.com/HimanshuMude/CSES/blob/main.git/objects/a8/e74c6f9a9b579a52713973ad5c34081585be6c)
-      - 📁 **[6b/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/6b/)**
-        - 🛠️ [ca06c7cc19536ff4c7c16f8f979b4c47e3e46d](https://github.com/HimanshuMude/CSES/blob/main.git/objects/6b/ca06c7cc19536ff4c7c16f8f979b4c47e3e46d)
-      - 📁 **[98/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/98/)**
-        - 🛠️ [8a74fba143abc069848adbe917446743791ea1](https://github.com/HimanshuMude/CSES/blob/main.git/objects/98/8a74fba143abc069848adbe917446743791ea1)
-        - 🛠️ [ed5d5a4d5be7e7e72b45edc0be5afb1782a71e](https://github.com/HimanshuMude/CSES/blob/main.git/objects/98/ed5d5a4d5be7e7e72b45edc0be5afb1782a71e)
-      - 📁 **[f9/](https://github.com/HimanshuMude/CSES/blob/main.git/objects/f9/)**
-        - 🛠️ [9795d0c29e894879bd7da1e5a4a8ef442f9e29](https://github.com/HimanshuMude/CSES/blob/main.git/objects/f9/9795d0c29e894879bd7da1e5a4a8ef442f9e29)
-    - 📁 **[hooks/](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/)**
-      - 🛠️ [prepare-commit-msg.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/prepare-commit-msg.sample)
-      - 🛠️ [post-update.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/post-update.sample)
-      - 🛠️ [fsmonitor-watchman.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/fsmonitor-watchman.sample)
-      - 🛠️ [sendemail-validate.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/sendemail-validate.sample)
-      - 🛠️ [pre-rebase.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/pre-rebase.sample)
-      - 🛠️ [pre-commit.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/pre-commit.sample)
-      - 🛠️ [commit-msg.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/commit-msg.sample)
-      - 🛠️ [pre-merge-commit.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/pre-merge-commit.sample)
-      - 🛠️ [pre-push.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/pre-push.sample)
-      - 🛠️ [applypatch-msg.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/applypatch-msg.sample)
-      - 🛠️ [push-to-checkout.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/push-to-checkout.sample)
-      - 🛠️ [pre-receive.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/pre-receive.sample)
-      - 🛠️ [update.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/update.sample)
-      - 🛠️ [pre-applypatch.sample](https://github.com/HimanshuMude/CSES/blob/main.git/hooks/pre-applypatch.sample)
+- 📁 **[Introductory Problems](https://github.com/your-username/your-repo-name/blob/main/Introductory Problems)**
+  - 📄 [increasing_array.py](https://github.com/your-username/your-repo-name/blob/main/Introductory Problems/increasing_array.py)
+  - 📄 [missing_number.py](https://github.com/your-username/your-repo-name/blob/main/Introductory Problems/missing_number.py)
+  - 📄 [permutations.py](https://github.com/your-username/your-repo-name/blob/main/Introductory Problems/permutations.py)
+  - 📄 [repetitions.py](https://github.com/your-username/your-repo-name/blob/main/Introductory Problems/repetitions.py)
+  - 📄 [weird_algorithm.py](https://github.com/your-username/your-repo-name/blob/main/Introductory Problems/weird_algorithm.py)
+- 📄 [README.md](https://github.com/your-username/your-repo-name/blob/main/README.md)
