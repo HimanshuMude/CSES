@@ -7,5 +7,3 @@
   - 📄 [repetitions.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/repetitions.py)
   - 📄 [weird_algorithm.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/weird_algorithm.py)
 - 📄 [README.md](https://github.com/HimanshuMude/CSES/blob/main/README.md)
-- 📁 **[logos](https://github.com/HimanshuMude/CSES/blob/main/logos)**
-  - 📄 [python.png](https://github.com/HimanshuMude/CSES/blob/main/logos/python.png)
