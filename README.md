@@ -7,6 +7,7 @@
   - 📄 [number_spiral.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/number_spiral.py)
   - 📄 [permutations.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/permutations.py)
   - 📄 [repetitions.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/repetitions.py)
+  - 📄 [trailing_zeros.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/trailing_zeros.py)
   - 📄 [two_knights.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/two_knights.py)
   - 📄 [two_sets.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/two_sets.py)
   - 📄 [weird_algorithm.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/weird_algorithm.py)
