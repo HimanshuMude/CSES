@@ -10,6 +10,7 @@
   - 📄 [palindrome_reorder.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/palindrome_reorder.py)
   - 📄 [permutations.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/permutations.py)
   - 📄 [repetitions.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/repetitions.py)
+  - 📄 [tower_of_hanoi.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/tower_of_hanoi.py)
   - 📄 [trailing_zeros.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/trailing_zeros.py)
   - 📄 [two_knights.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/two_knights.py)
   - 📄 [two_sets.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/two_sets.py)
