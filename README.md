@@ -6,6 +6,7 @@
   - 📄 [increasing_array.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/increasing_array.py)
   - 📄 [missing_number.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/missing_number.py)
   - 📄 [number_spiral.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/number_spiral.py)
+  - 📄 [palindrome_reorder.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/palindrome_reorder.py)
   - 📄 [permutations.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/permutations.py)
   - 📄 [repetitions.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/repetitions.py)
   - 📄 [trailing_zeros.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/trailing_zeros.py)
