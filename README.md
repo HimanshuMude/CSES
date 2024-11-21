@@ -4,6 +4,7 @@
   - 📄 [Gray_code.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/Gray_code.py)
   - 📄 [bit_strings.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/bit_strings.py)
   - 📄 [coin_piles.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/coin_piles.py)
+  - 📄 [creating_strings.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/creating_strings.py)
   - 📄 [increasing_array.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/increasing_array.py)
   - 📄 [missing_number.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/missing_number.py)
   - 📄 [number_spiral.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/number_spiral.py)
