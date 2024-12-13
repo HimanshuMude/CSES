@@ -1,6 +1,7 @@
 # Repository Index
 
 - 📁 **[Introductory_Problems](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems)**
+  - 📄 [Apple_division.cpp](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/Apple_division.cpp)
   - 📄 [Gray_code.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/Gray_code.py)
   - 📄 [bit_strings.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/bit_strings.py)
   - 📄 [coin_piles.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/coin_piles.py)
