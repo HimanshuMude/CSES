@@ -4,6 +4,7 @@
   - 📄 [Apple_division.cpp](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/Apple_division.cpp)
   - 📄 [Gray_code.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/Gray_code.py)
   - 📄 [bit_strings.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/bit_strings.py)
+  - 📄 [chessboardAndQueen.cpp](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/chessboardAndQueen.cpp)
   - 📄 [coin_piles.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/coin_piles.py)
   - 📄 [creating_strings.cpp](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/creating_strings.cpp)
   - 📄 [creating_strings.py](https://github.com/HimanshuMude/CSES/blob/main/Introductory_Problems/creating_strings.py)
